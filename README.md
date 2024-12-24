@@ -11,4 +11,4 @@
 🚀 Vamos Conectar?
 
 <div style="display: inline-block"> 
-  <a href="www.linkedin.com/in/jackson-santana-1618aa111" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="www.linkedin.com/in/jackson-santana-" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
